@@ -1,12 +1,10 @@
 /*Ayush Chhabra*/
 
-#include<conio.h>
+#include<conio.h> //for getch(),clrscr()
 #include<stdio.h>
 #include<process.h>
 #include<fstream.h>
 #include<string.h>
-
-
 
 class product
 {
