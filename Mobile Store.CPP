@@ -1,11 +1,10 @@
+/*Ayush Chhabra*/
 
-#include<conio.h>
+#include<conio.h> //for getch(),clrscr()
 #include<stdio.h>
 #include<process.h>
 #include<fstream.h>
 #include<string.h>
-
-
 
 class product
 {
@@ -204,9 +203,9 @@ void delete_product()
     float amt,damt,total=0;
     char ch='Y';
     menu();
-    cout<<"\n============================";
+  
     cout<<"\n    PLACE YOUR ORDER";
-    cout<<"\n============================\n";
+    
     do{
 	 cout<<"\n\nEnter The Product No. Of The Product : ";
 	 cin>>order_arr[c];
