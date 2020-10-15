@@ -1,4 +1,4 @@
-/*Ayush Chhabra*/
+
 
 #include<conio.h> //for getch(),clrscr()
 #include<stdio.h>
